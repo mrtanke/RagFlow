@@ -1,4 +1,4 @@
-# RAG_FASTAPI
+# RagFlow
 
 A modular **FastAPI-based backend** for Retrieval-Augmented Generation (RAG) applications.  
 This project integrates **LangChain**, **ChromaDB**, and **FastAPI** to provide API endpoints and a simple app interface for LLM-powered Q&A systems.
